@@ -1,0 +1,61 @@
+{
+    "name": "BioBricks",
+    "description": "The BBF works to ensure that the engineering of biology is conducted in an open and ethical manner to benefit people and the planet.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1713-biobricks.jpg",
+    "tags": [
+        "api provider",
+        "biology",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/biobricks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BioBricks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1713-biobricks.jpg",
+            "humanURL": "https:\/\/biobricks.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/biobricks-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/biobricks-foundation"
+        },
+        {
+            "type": "Email",
+            "url": "contact@biobricks.org"
+        },
+        {
+            "type": "Email",
+            "url": "legal@biobricks.org"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@biobricks.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/biobricks"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/biobricks.org\/bpa\/developers\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/biobricks.org\/"
+        }
+    ]
+}
